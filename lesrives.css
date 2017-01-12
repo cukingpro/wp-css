@@ -1,5 +1,6 @@
 .header-widget.widget_nav_menu ul.menu li ul li a {color: #fff; font-weight: 400;}
 .header-widget.widget_nav_menu ul ul, .header_top #lang_sel ul ul {background-color: #0c1b4e; width: auto;}
+.header-widget.widget_nav_menu ul li #menu-item-wpml-ls-top-header-menu-en:hover ul,.sub-menu { width: 130px; }
 .header_top #lang_sel ul li ul li a, .header_top #lang_sel ul li ul li a:visited, .header_top #lang_sel_click ul li ul li a, .header_top #lang_sel_click ul li ul li a:visited {padding: 0 4px!important;}
 .header_top .q_social_icon_holder i.simple_social {font-size: 18px !important;}
 body {font-family: 'Lato',sans-serif !important;}
