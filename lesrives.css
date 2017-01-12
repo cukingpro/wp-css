@@ -1,0 +1,145 @@
+.header-widget.widget_nav_menu ul.menu li ul li a {color: #fff; font-weight: 400;}
+.header-widget.widget_nav_menu ul ul, .header_top #lang_sel ul ul {background-color: #0c1b4e; width: auto;}
+.header_top #lang_sel ul li ul li a, .header_top #lang_sel ul li ul li a:visited, .header_top #lang_sel_click ul li ul li a, .header_top #lang_sel_click ul li ul li a:visited {padding: 0 4px!important;}
+.header_top .q_social_icon_holder i.simple_social {font-size: 18px !important;}
+body {font-family: 'Lato',sans-serif !important;}
+.header_top .q_social_icon_holder:last-child {padding-right: 30px;}
+
+@media only screen and (min-width: 1000px) and (max-width: 1200px) {
+nav.main_menu ul li a {margin: -2px;}
+.header_bottom_right_widget_holder {padding: 0}
+nav.main_menu>ul>li>a {font-weight: 500; font-size: 13px; padding: 0 15px;}
+.header_bottom { padding: 0 15px;}}
+@media only screen and (min-width: 1000px) {
+p.price {margin-right: 14% !important;}
+div.bc_left {float:left; width:50%;}
+.content {margin-top: 0px;}
+.title_subtitle_holder_inner {margin-top: 0px;}
+.footer_bottom .textwidget {display:none;}}
+@media only screen and (max-width: 999px) {
+p.price {margin-right: 0 !important;}
+.footer_bottom .menu {display:none;}}
+
+body .gform_wrapper input[type="button"]:hover, body .gform_wrapper input[type="submit"]:hover, body .gform_wrapper input[type="reset"]:hover {
+background-color: #fff; border-color: #c3ad6f; color: #000;}
+body .gform_wrapper input[type="button"], body .gform_wrapper input[type="submit"], body .gform_wrapper input[type="reset"] {
+border: 2px solid #c3ad6f; color: #fff; background-color: #c3ad6f;}
+div.gform_footer.top_label {text-align: center;}
+.q_tabs.boxed .tabs-nav li.active a {background-color:#e0d28b;}
+.q_tabs.boxed .tabs-nav li.active a:hover {color:#fff !important;}
+.qode_carousels .slides img{width: auto; margin: 0 auto;}
+
+.footer_bottom ul li:first-child a {font-size:11px; text-transform:none; }
+.footer_bottom ul li:first-child a:hover {color:#ffffff;}
+
+.testimonial_image_holder {margin:0 0 5px;}
+.testimonials_holder .flex-direction-nav li, .testimonials .testimonial_text_inner p.testimonial_author {margin-top: 7px;}
+
+#tag_cloud-3, #text-9 {margin-top:0px;}
+
+.pl-detailcnt .pl-postmeta {display:none !important;}
+.pl-detailcnt .pl-postcomment a {display:none;}
+.pl-carousel-layout .pl-detailcnt {padding: 0 10px !important;}
+.pl-detailcnt .pl-permalink {background: #e0d28b !important;}
+.pl-permalink:hover {color: #e0d28b !important;}
+.pl-bxslider li > div {min-height: 494px;}
+
+.cover_boxes ul li .box .box_content {left: 265px;}
+.cover_boxes ul li .box .thumb {min-height: 220px;}
+
+.container_inner.page_container_inner {padding: 0 !important;}
+
+.wpdevbk select.bc_adults, .wpdevbk select.bc_children, .wpdevbk select.bc_adult {width:60px; margin-right:20px;}
+
+.wpdevbk textarea.bc_details {width:85%;}
+
+.wpdevbk p {font-weight:700;}
+
+p.price {text-align: right;  border-bottom: 1px solid; font-size: 17px !important;  color: #c3ad6f; font-weight:600;}
+div.block_booked.date_approved {color:#EEAA55; text-shadow: none !important;}
+.block_hints .block_free, .block_hints .block_free a  {color:#789 !important; text-shadow: none !important;}
+
+.booking_form input[type="button"] {background-color: #c3ad6f !important;
+  font-size: 17px !important;
+  color: #fff !important;
+  border-color: #c3ad6f !important;
+  background-image: none !important;
+  text-shadow: none !important;
+  text-transform: uppercase !important;
+  font-family: 'Lato', sans-serif !important;}
+
+.booking_form input[type="button"]:hover {
+background-color: #fff !important;
+color: #c3ad6f !important;}
+  
+.wpdevbk h4 {font-size: 19px !important; 
+line-height: 49px !important;
+font-weight: 400 !important;}
+
+.tabs-container h2 {
+  font-size: 17px;
+  font-weight: 600;
+  font-style: italic;
+  color: #e0d28b;
+}
+
+.category-travel-guides .time, .blog_single .time, .category-travel-guides  .date {display: none;}
+
+@media only screen and (max-width: 500px) {
+.gf_left_half, .gf_right_half, .gf_middle_third, .gf_left_third, .gf_right_third { float: left; clear: left !important; width: 99% !important;}}
+.footer_top h5 a {color: #fff;}
+
+/*Style the blockquote*/
+blockquote {border-left: 4px solid #e0d28b;box-shadow: 5px 5px 5px #888888;border-top: 4px solid #e0d28b}
+
+@media only screen and (max-width: 768px) {
+article.tours  ul.tabs-nav:first-child li {float:none; display: block;}
+}
+
+@media only screen and (max-width: 767px){
+.fixed_trekksoft a[id^="trekksoft_"], article.tours a[id^="trekksoft_"] { position: fixed; left: 50%; margin-left: -127px; top: 88%; z-index: 9999;}}
+
+/* Style for WPML */
+.header_top .left #lang_sel>ul>li>a, .header_top .left #lang_sel ul li ul li a:hover {color: #e0d28b !important;}
+.header_top .left #lang_sel ul li ul li a{    color: #fff; font-weight: 400;}
+@media only screen and (max-width: 450px){
+ .header_top .left .inner {    margin: 0 auto; width: 196px;}
+}
+@media only screen and (width: 768px) { .container_inner  { width: 750px;}}
+header.page_header nav.main_menu ul#menu-primary-navigation-vietnamese li.narrow{
+  max-width: 165px;
+  height: 50px;
+}
+header.page_header nav.main_menu ul#menu-primary-navigation-vietnamese li.narrow:nth-of-type(2){
+    max-width: 120px;
+}
+header.page_header nav.main_menu ul#menu-primary-navigation-vietnamese li.narrow>a,
+header.page_header nav.main_menu ul#menu-primary-navigation-russian li.narrow>a{
+  padding-top: 50px;
+  line-height: 25px;
+  height: 90px;
+}
+ul#menu-primary-navigation-vietnamese .second,
+ul#menu-primary-navigation-russian .second{
+  position: initial;
+}
+ul#menu-primary-navigation-vietnamese .second .inner ul li,
+ul#menu-primary-navigation-russian .second .inner ul li{
+  display: inline-block;
+}
+header.page_header nav.main_menu ul#menu-primary-navigation-russian li.narrow{
+  max-width: 130px;
+  height: 50px;
+  margin-right: 15px;
+}
+div.blog_single h1{
+  font-size: 24px;
+  font-weight: 600;
+ text-transform: uppercase;
+}
+.blog_holder article .post_info a, .blog_holder article .post_text h1 .date{
+  color: #bebebe;
+}
+.flexslider .slides img {width: auto !important; margin: 0 auto;}
+
+nav.main_menu > ul  > li:last-child a {color: #0c1b4e;background-color: #e0d28b;}
